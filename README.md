@@ -89,7 +89,7 @@ alembic downgrade -1
 
 ## Endpoint Details
 
-### Product
+### Product Endpoints (/products):
 
 - POST /: Create a new product
 - GET /: List all products (with pagination)
